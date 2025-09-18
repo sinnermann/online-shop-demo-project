@@ -11,7 +11,7 @@ const Home = () => {
     {
       id: 2,
       title: "JACKETS",
-      imageUrl: "https://cdn.thewirecutter.com/wp-content/media/2024/02/downjackets-2048px-9071-2x1-1.jpg?width=1024&quality=75&crop=2:1&auto=webp",
+      imageUrl: "https://i1.wp.com/hypebeast.com/image/2016/01/kanye-west-increases-alpha-industries-ma-1-bomber-sales-1.jpg",
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ const Home = () => {
     {
       id: 5,
       title: "MENS",
-      imageUrl: "https://mensflair.com/wp-content/uploads/2022/08/best-leather-jackets-1536x864.jpg",
+      imageUrl: "https://t3.ftcdn.net/jpg/09/57/23/10/360_F_957231003_pZ573DsZ75uK7jSWx4l2nBgEdTDs70Dw.jpg",
     },
   ];
 
