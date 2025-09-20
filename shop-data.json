@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Mens Bombers",
     "imageUrl": "https://www.emp.co.uk/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dw5c1ddafa/images/3/6/7/4/367458wa.jpg?sfrm=png",
-    "price": 25
+    "price": 65
   },
   {
     "id": 2,
@@ -15,37 +15,37 @@
     "id": 3,
     "name": "Fashion T-Shirts",
     "imageUrl": "https://i.etsystatic.com/5503964/r/il/d9b243/1433947567/il_570xN.1433947567_ryyq.jpg",
-    "price": 35
+    "price": 20
   },
   {
     "id": 4,
     "name": "Mens Brown Field Jackets",
     "imageUrl": "https://www.jacketsmasters.com/wp-content/uploads/2021/09/stephen-amell-brown-cotton-jacket.jpg",
-    "price": 25
+    "price": 90
   },
   {
     "id": 5,
     "name": "Leather Jackets",
     "imageUrl": "https://oliverqueengear.wordpress.com/wp-content/uploads/2015/07/3.jpg",
-    "price": 18
+    "price": 300
   },
   {
     "id": 6,
     "name": "Field Boots",
     "imageUrl": "https://www.therpf.com/forums/attachments/oliver-queen-boot-jpg.1094284/",
-    "price": 14
+    "price": 80
   },
   {
     "id": 7,
     "name": "Fashion Trench Coats",
     "imageUrl": "https://m.media-amazon.com/images/I/71xpxsS6xZL._AC_SX569_.jpg",
-    "price": 18
+    "price": 100
   },
   {
     "id": 8,
     "name": "Caps",
     "imageUrl": "https://i.pinimg.com/564x/54/f8/b7/54f8b73dd87105445cb2b47a0f37d925.jpg",
-    "price": 14
+    "price": 15
   },
   {
     "id": 9,
@@ -57,18 +57,18 @@
     "id": 10,
     "name": "Blazers",
     "imageUrl": "https://www.starsjackets.com/wp-content/uploads/2017/11/Oliver-Queen-Arrow-Stephen-Leather-Jacket.jpg",
-    "price": 17
+    "price": 40
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Mens Sweaters",
     "imageUrl": "https://i.pinimg.com/736x/2e/1d/51/2e1d51a21638dd461bc18897e02d2e07.jpg",
-    "price": 18
+    "price": 30
   },
   {
-    "id": 10,
+    "id": 12,
     "name": "Mens Shirts",
     "imageUrl": "https://i.pinimg.com/736x/05/24/35/052435c79119d5e53c338bf2911c175a.jpg",
-    "price": 19
+    "price": 25
   }
 ]
