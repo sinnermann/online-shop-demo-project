@@ -25,7 +25,7 @@
   },
   {
     "id": 5,
-    "name": "Leather Jackets",
+    "name": "Urban Jackets",
     "imageUrl": "https://oliverqueengear.wordpress.com/wp-content/uploads/2015/07/3.jpg",
     "price": 300
   },
@@ -70,5 +70,23 @@
     "name": "Mens Shirts",
     "imageUrl": "https://i.pinimg.com/736x/05/24/35/052435c79119d5e53c338bf2911c175a.jpg",
     "price": 25
+  },
+  {
+    "id": 13,
+    "name": "Mens Urban Boots",
+    "imageUrl": "https://www.tvstyleguide.com/wp-content/uploads/2016/04/clarks_desert_beeswax_boots.jpg",
+    "price": 60
+  },
+  {
+    "id": 14,
+    "name": "Mens Leather Jackets",
+    "imageUrl": "https://m.media-amazon.com/images/I/91YjmqswhuL._AC_SX679_.jpg",
+    "price": 335
+  },
+  {
+    "id": 15,
+    "name": "Mens Trench Coats",
+    "imageUrl": "https://www.tvstyleguide.com/wp-content/uploads/2015/08/alpha_industried_field_coat_black.jpg",
+    "price": 55
   }
 ]
